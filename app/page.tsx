@@ -1,6 +1,8 @@
 
 export default function Home() {
   return (
-      <div>test</div>
+      <div>
+        <h1 className='text-3xl underline'>Home</h1>
+      </div>
   )
 }
